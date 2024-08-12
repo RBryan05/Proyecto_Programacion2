@@ -16,7 +16,7 @@ namespace Ejemplo1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MostrarEnTabla());
+            Application.Run(new MostrarEnTxtBox());
         }
     }
 }
