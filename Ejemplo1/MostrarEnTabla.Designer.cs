@@ -1,6 +1,6 @@
 ﻿namespace Ejemplo1
 {
-    partial class Form1
+    partial class MostrarEnTabla
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MostrarEnTabla));
             this.northwindDataSet = new Ejemplo1.NorthwindDataSet();
             this.customersBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.customersTableAdapter = new Ejemplo1.NorthwindDataSetTableAdapters.CustomersTableAdapter();

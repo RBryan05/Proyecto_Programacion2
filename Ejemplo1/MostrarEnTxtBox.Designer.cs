@@ -1,6 +1,6 @@
 ﻿namespace Ejemplo1
 {
-    partial class Form2
+    partial class MostrarEnTxtBox
     {
         /// <summary>
         /// Required designer variable.
@@ -40,7 +40,7 @@
             System.Windows.Forms.Label countryLabel;
             System.Windows.Forms.Label phoneLabel;
             System.Windows.Forms.Label faxLabel;
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MostrarEnTxtBox));
             this.northwindDataSet = new Ejemplo1.NorthwindDataSet();
             this.customersBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.customersTableAdapter = new Ejemplo1.NorthwindDataSetTableAdapters.CustomersTableAdapter();

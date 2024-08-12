@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Ejemplo1
 {
-    public partial class Form2 : Form
+    public partial class MostrarEnTxtBox : Form
     {
-        public Form2()
+        public MostrarEnTxtBox()
         {
             InitializeComponent();
         }
